@@ -1,0 +1,1 @@
+var json_Chipiron_5 = {"type":"FeatureCollection","name":"Chipiron_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"Chipirón"},"geometry":{"type":"Point","coordinates":[-71.15728846147239,6.87839777183562]}}]}
