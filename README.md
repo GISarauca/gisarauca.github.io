@@ -1,6 +1,6 @@
 ## GIS for Arauca
-This project was created to show the encironmental effects that oil companies had on the hydrological system called Lipa in Arauca, Colombia. The base is an OpenStreetMap and the additions come from participatory cartography and field work conducted in November 2024.
-You can find the map here: gisarauca.github.io
+This project was created to show the encironmental effects that oil companies had on the hydrological system called Lipa in Arauca, Colombia. The base is an OpenStreetMap and the additions come from participatory cartography and field work conducted in November 2024. 
+You can find the map here: [gisarauca.github.io](gisarauca.github.io)
 
 ## Reproducing the Map
 I created the map in QGIS 3.40 using the plugins
